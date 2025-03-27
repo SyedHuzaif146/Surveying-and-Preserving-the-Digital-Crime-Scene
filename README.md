@@ -1,5 +1,6 @@
 # Surveying and Preserving the Digital Crime Scene
-
+## Name : Syed Huzaif
+## Registor number : 212224240166
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
 
@@ -67,7 +68,8 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 ![](./images/a9.png)
 
 ### Folder after extracting the deleted images using autopsy
-![](./images/a10.png)
+
+![Screenshot 2025-03-27 140048](https://github.com/user-attachments/assets/02baf109-72d7-4578-a502-b6a235c027b4)
 
 ## Result:
 Successfully extracted the deleted files from unallocated space using the Autospy tool.
