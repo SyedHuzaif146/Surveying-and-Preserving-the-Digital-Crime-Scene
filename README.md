@@ -1,5 +1,6 @@
 # Surveying and Preserving the Digital Crime Scene
-
+## Name : Syed Huzaif
+## Rigistor number : 212224240166
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
 
@@ -53,7 +54,8 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
 
-![](./images/a8.png)
+![Screenshot 2025-03-27 141103](https://github.com/user-attachments/assets/e75c5ed9-9dab-47c9-aff5-120edd13ac2d)
+
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
@@ -61,13 +63,12 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 ## Output :
 ### Folder before deleting the files
-![](./images/f1.png)
 
-### Folder after deleting the files
-![](./images/a9.png)
+
 
 ### Folder after extracting the deleted images using autopsy
-![](./images/a10.png)
+![Screenshot 2025-03-20 142749](https://github.com/user-attachments/assets/b3c71569-9656-4956-bae2-a2337e74ccdc)
+
 
 ## Result:
 Successfully extracted the deleted files from unallocated space using the Autospy tool.
